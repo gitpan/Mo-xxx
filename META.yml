@@ -1,0 +1,26 @@
+---
+abstract: 'Add XXX support to classes'
+author:
+  - 'Ingy döt Net <ingy@cpan.org>'
+build_requires:
+  ExtUtils::MakeMaker: 6.42
+configure_requires:
+  ExtUtils::MakeMaker: 6.42
+distribution_type: module
+generated_by: 'Module::Install version 1.01'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+module_name: Mo::xxx
+name: Mo-xxx
+no_index:
+  directory:
+    - inc
+    - t
+    - xt
+resources:
+  homepage: http://github.com/ingydotnet/mo-xxx-pm/tree
+  license: http://dev.perl.org/licenses/
+  repository: git://github.com/ingydotnet/mo-xxx-pm.git
+version: 0.10
